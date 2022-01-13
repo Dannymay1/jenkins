@@ -1,4 +1,3 @@
-#jenkinsfile
 node {
     git url: 'https://github.com/jfrogdev/project-examples.git'
 
